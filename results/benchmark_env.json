@@ -1,0 +1,10 @@
+{
+  "gpu": "NVIDIA GeForce RTX 2080 Ti",
+  "torch": "2.14.1+cu126",
+  "ultralytics": "8.4.191",
+  "onnxruntime": "1.22.0",
+  "tensorrt": "11.4.0.106",
+  "variant": "tiled640",
+  "boards_timed": 60,
+  "operating_conf": 0.032826054841279984
+}
