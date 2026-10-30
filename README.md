@@ -13,7 +13,6 @@ Automated optical inspection (AOI) of bare printed circuit boards. A YOLO11 dete
 | Inspection time per board, TensorRT FP16 (p50, end to end) | **215 ms** (about 16,700 boards/hour, single stream) |
 | HTTP API throughput, 4 concurrent clients | 11.1 boards/s (about 40,000 boards/hour) |
 
-![Training curves](results/figures/training_curves.png)
 
 ---
 
